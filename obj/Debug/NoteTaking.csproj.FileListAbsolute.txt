@@ -1,0 +1,10 @@
+I:\Portfolio Projects\NoteTaking\bin\Debug\NoteTaking.exe.config
+I:\Portfolio Projects\NoteTaking\bin\Debug\NoteTaking.exe
+I:\Portfolio Projects\NoteTaking\bin\Debug\NoteTaking.pdb
+I:\Portfolio Projects\NoteTaking\obj\Debug\NoteTaking.csproj.AssemblyReference.cache
+I:\Portfolio Projects\NoteTaking\obj\Debug\NoteTaking.Form1.resources
+I:\Portfolio Projects\NoteTaking\obj\Debug\NoteTaking.Properties.Resources.resources
+I:\Portfolio Projects\NoteTaking\obj\Debug\NoteTaking.csproj.GenerateResource.cache
+I:\Portfolio Projects\NoteTaking\obj\Debug\NoteTaking.csproj.CoreCompileInputs.cache
+I:\Portfolio Projects\NoteTaking\obj\Debug\NoteTaking.exe
+I:\Portfolio Projects\NoteTaking\obj\Debug\NoteTaking.pdb
